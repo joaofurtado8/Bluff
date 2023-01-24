@@ -1,2 +1,2 @@
 # Bluff
-Website for bluff´s resturant
+Website for Bluff´s resturant
